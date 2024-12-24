@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/NunoAzevedo17/advice-generator-app](https://github.com/NunoAzevedo17/advice-generator-app)
+- Live Site URL: [advice-generator-app-rosy-kappa.vercel.app](https://advice-generator-app-rosy-kappa.vercel.app)
 
 ## My process
 
